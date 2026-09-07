@@ -28,7 +28,7 @@ A simple Python program that tracks a user’s stock portfolio and calculates th
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/CodeAlpha_StockPortfolioTracker.git
+   git clone [(https://github.com/pujithdondapaati-ux/CodeAlpa_projects/tree/main/CodeAlpha_StockPortfolioTracker)]
    cd CodeAlpha_StockPortfolioTracker
    ```
 
