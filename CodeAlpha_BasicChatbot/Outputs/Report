@@ -1,1 +1,14 @@
+=== Basic Chatbot Conversation Log ===
 
+You: hello
+Bot: Hi there! How can I help you today?
+You: how are you
+Bot: I'm fine, thanks! How about you?
+You: what is your name
+Bot: I'm a simple rule-based chatbot created for the CodeAlpha Python internship.
+You: thank you
+Bot: You're welcome! Feel free to ask me anything.
+You: bye
+Bot: Goodbye! Have a great day!
+
+Chatbot created for CodeAlpha Internship Project.
